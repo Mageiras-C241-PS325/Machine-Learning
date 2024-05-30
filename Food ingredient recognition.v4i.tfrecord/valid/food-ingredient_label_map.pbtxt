@@ -1,0 +1,190 @@
+item {
+    name: "-",
+    id: 1,
+    display_name: "-"
+}
+item {
+    name: "almond",
+    id: 2,
+    display_name: "almond"
+}
+item {
+    name: "apple",
+    id: 3,
+    display_name: "apple"
+}
+item {
+    name: "avocado",
+    id: 4,
+    display_name: "avocado"
+}
+item {
+    name: "beef",
+    id: 5,
+    display_name: "beef"
+}
+item {
+    name: "bell pepper",
+    id: 6,
+    display_name: "bell pepper"
+}
+item {
+    name: "blueberry",
+    id: 7,
+    display_name: "blueberry"
+}
+item {
+    name: "bread",
+    id: 8,
+    display_name: "bread"
+}
+item {
+    name: "broccoli",
+    id: 9,
+    display_name: "broccoli"
+}
+item {
+    name: "butter",
+    id: 10,
+    display_name: "butter"
+}
+item {
+    name: "carrot",
+    id: 11,
+    display_name: "carrot"
+}
+item {
+    name: "cheese",
+    id: 12,
+    display_name: "cheese"
+}
+item {
+    name: "chilli",
+    id: 13,
+    display_name: "chilli"
+}
+item {
+    name: "cookie",
+    id: 14,
+    display_name: "cookie"
+}
+item {
+    name: "corn",
+    id: 15,
+    display_name: "corn"
+}
+item {
+    name: "cucumber",
+    id: 16,
+    display_name: "cucumber"
+}
+item {
+    name: "egg",
+    id: 17,
+    display_name: "egg"
+}
+item {
+    name: "eggplant",
+    id: 18,
+    display_name: "eggplant"
+}
+item {
+    name: "garlic",
+    id: 19,
+    display_name: "garlic"
+}
+item {
+    name: "lemon",
+    id: 20,
+    display_name: "lemon"
+}
+item {
+    name: "milk",
+    id: 21,
+    display_name: "milk"
+}
+item {
+    name: "mozarella cheese",
+    id: 22,
+    display_name: "mozarella cheese"
+}
+item {
+    name: "mushroom",
+    id: 23,
+    display_name: "mushroom"
+}
+item {
+    name: "mussel",
+    id: 24,
+    display_name: "mussel"
+}
+item {
+    name: "onion",
+    id: 25,
+    display_name: "onion"
+}
+item {
+    name: "oyster",
+    id: 26,
+    display_name: "oyster"
+}
+item {
+    name: "parmesan cheese",
+    id: 27,
+    display_name: "parmesan cheese"
+}
+item {
+    name: "pasta",
+    id: 28,
+    display_name: "pasta"
+}
+item {
+    name: "pork rib",
+    id: 29,
+    display_name: "pork rib"
+}
+item {
+    name: "potato",
+    id: 30,
+    display_name: "potato"
+}
+item {
+    name: "salmon",
+    id: 31,
+    display_name: "salmon"
+}
+item {
+    name: "scallop",
+    id: 32,
+    display_name: "scallop"
+}
+item {
+    name: "shrimp",
+    id: 33,
+    display_name: "shrimp"
+}
+item {
+    name: "strawberry",
+    id: 34,
+    display_name: "strawberry"
+}
+item {
+    name: "toast bread",
+    id: 35,
+    display_name: "toast bread"
+}
+item {
+    name: "tomato",
+    id: 36,
+    display_name: "tomato"
+}
+item {
+    name: "tuna",
+    id: 37,
+    display_name: "tuna"
+}
+item {
+    name: "yogurt",
+    id: 38,
+    display_name: "yogurt"
+}
