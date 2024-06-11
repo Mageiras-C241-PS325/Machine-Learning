@@ -3,3 +3,5 @@ env
 model
 model.keras
 FOOD-INGREDIENTS*
+checkpoint.model.keras
+vegetablesV2.v5i.tfrecord
