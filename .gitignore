@@ -5,3 +5,4 @@ model.keras
 FOOD-INGREDIENTS*
 checkpoint.model.keras
 vegetablesV2.v5i.tfrecord
+dish_dataset_data_exploration/3A2M_EXTENDED.csv
